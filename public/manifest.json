@@ -1,0 +1,21 @@
+{
+  "name": "Vocal Profile",
+  "short_name": "VocalProfile",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#050014",
+  "theme_color": "#050014",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "https://placehold.co/192x192/4c1d95/ffffff?text=VP",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "https://placehold.co/512x512/4c1d95/ffffff?text=VP",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
